@@ -4,7 +4,7 @@ Module 21: Neural Networks and Deep Learning
 
 
 
-**Overview:**
+### **Overview:**
 
 _AlphabetSoupCharity_Optimization.ipynb_ takes the historical data from a nonprofit foundation Alphabet Soup and creates a binary classifier to help predict whether an applicant will be successful if funded.  The historical data is found in _charity_data.csv_ and has the following metadata:
 
@@ -33,7 +33,7 @@ IS_SUCCESSFUL—Was the money used effectively
 
 
 
-**Results:** 
+### **Results:** 
 
 Data Preprocessing
 

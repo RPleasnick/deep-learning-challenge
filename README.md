@@ -47,6 +47,8 @@ Data Preprocessing
 
 Compiling, Training, and Evaluating the Model
 
+![Screenshot 2024-08-01 173308](https://github.com/user-attachments/assets/5792d39f-530d-42d8-a2c6-ef734f708e9c)
+
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 Were you able to achieve the target model performance?
 What steps did you take in your attempts to increase model performance?

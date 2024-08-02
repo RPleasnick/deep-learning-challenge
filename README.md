@@ -55,7 +55,13 @@ The initial model had three layers.  The first layer had 80 neurons with the act
 
 This did not meet the target madel performance of 75%.  Several attemps to improve this accuracy by changing the number of epochs, the number of neurons, the activation function, and the number of layers.
 
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Were you able to achieve the target model performance?
-What steps did you take in your attempts to increase model performance?
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
+When the epochs were increased to 200, the accuracy = 73.04%.  When the number of neurons were increased to 100, 50, 1 (respectively), the accuracy = 72.75%.  However, the best accuracy = 73.06% when the activation function was leaky relu.
+
+
+## **Summary:** 
+
+From the models attempted, the best accuracy was 73.06% 
+![Screenshot 2024-08-01 230158](https://github.com/user-attachments/assets/8ffa6023-f300-4a5f-bbae-d67ab751c841)
+
+Although this is close to the 75% that was trying to be acheived, the model needs to be adjusted further.
+
